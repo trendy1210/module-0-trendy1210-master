@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "module-0-trendy1210-master"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
